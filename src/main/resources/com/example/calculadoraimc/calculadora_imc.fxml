@@ -9,7 +9,7 @@
 
 <VBox stylesheets="@calculadoraimc_style.css" alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
       fx:controller="com.example.calculadoraimc.CalculadoraController">
-    <padding id="padding_imc">
+    <padding>
         <Insets/>
     </padding>
     <TextField fx:id="campoPeso" promptText="Peso" />
